@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+#quote-box{
+    text-align: center;
+}
+
+#quote-box p {
+    margin: 20px;
+}
+
+#text{
+    font-size: 20px;
+
+}
+
+#author{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#new-quote{
+    padding: 10px 15px;
+    background-color: rgb(0, 106, 116);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+#tweet-quote{
+    color: rgb(1, 176, 219);
+    font-size: 20px;
+}
